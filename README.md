@@ -52,3 +52,14 @@ Note: Depending on your Linux configuration, to get the manuals working (e.g. ``
 ```shell
 sudo cp man/man3/* /usr/X11/share/man/man3
 ```
+
+## Contributing 
+To contribute to so_long, follow these steps:
+
+1. Fork this repository.
+2. Create a branch with clear name: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
